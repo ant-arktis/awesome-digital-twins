@@ -298,3 +298,8 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 |  | [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584)  
 |  | [Scene Graph Generation With External Knowledge and Image Reconstruction](https://arxiv.org/abs/1904.00560)  
 |  | [On Support Relations and Semantic Scene Graphs](https://arxiv.org/abs/1609.05834)  
+
+ <picture>
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ndrwmlnk/awesome-digital-twins"/>
+ </picture>
+
