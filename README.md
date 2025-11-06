@@ -11,15 +11,28 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
   
 | Stars | arXiv |  
 |:------------|:-------------|  
+|  | [LuxDiT: Lighting Estimation with Video Diffusion Transformer](https://arxiv.org/abs/2509.03680)  
+| [![Star](https://img.shields.io/github/stars/LiteReality/LiteReality.svg)](https://github.com/LiteReality/LiteReality) | [LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans](https://arxiv.org/abs/2507.02861)  
+| [![Star](https://img.shields.io/github/stars/CzzzzH/Vid2Sim.svg)](https://github.com/CzzzzH/Vid2Sim) | [Vid2Sim: Generalizable, Video-based Reconstruction of Appearance, Geometry and Physics for Mesh-free Simulation](https://arxiv.org/abs/2506.06440)  
+|  | [Is Single-View Mesh Reconstruction Ready for Robotics?](https://arxiv.org/abs/2505.17966)  
+|  | [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601)  
 |  | [QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization](https://arxiv.org/abs/2505.05591)  
+| [![Star](https://img.shields.io/github/stars/AvaLovelace1/BrickGPT/.svg)](https://github.com/AvaLovelace1/BrickGPT/) | [Generating Physically Stable and Buildable Brick Structures from Text](https://arxiv.org/abs/2505.05469)  
+| [![Star](https://img.shields.io/github/stars/xiahongchi/DRAWER.svg)](https://github.com/xiahongchi/DRAWER) | [DRAWER: Digital Reconstruction and Articulation With Environment Realism](https://arxiv.org/abs/2504.15278)  
 |  | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://arxiv.org/abs/2504.13059)  
+| [![Star](https://img.shields.io/github/stars/ShaneHuangHZ/CAPNet.svg)](https://github.com/ShaneHuangHZ/CAPNet) | [CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image](https://arxiv.org/abs/2504.11230)  
 |  | [GEOPARD: Geometric Pretraining for Articulation Prediction in 3D Shapes](https://arxiv.org/abs/2504.02747)  
+| [![Star](https://img.shields.io/github/stars/wuzirui/gs-ssr.svg)](https://github.com/wuzirui/gs-ssr) | [3D Gaussian Inverse Rendering with Approximated Global Illumination](https://arxiv.org/abs/2504.01358)  
+|  | [SuperDec: 3D Scene Decomposition with Superquadric Primitives](https://arxiv.org/abs/2504.00992)  
+| [![Star](https://img.shields.io/github/stars/unique1i/SceneSplat.svg)](https://github.com/unique1i/SceneSplat) | [SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining](https://arxiv.org/abs/2503.18052)  
 | [![Star](https://img.shields.io/github/stars/3dlg-hcvc/SceneEval.svg)](https://github.com/3dlg-hcvc/SceneEval) | [SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis](https://arxiv.org/abs/2503.14756)  
 |  | [EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/abs/2503.11089)  
+|  | [Unifying 2D and 3D Vision-Language Understanding](https://arxiv.org/abs/2503.10745)  
 |  | [Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts](https://arxiv.org/abs/2503.02600v1)  
 |  | [MeshPad: Interactive Sketch-Conditioned Artist-Designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)  
 | [![Star](https://img.shields.io/github/stars/pjw971022/nesyc-LLM.svg)](https://github.com/pjw971022/nesyc-LLM) | [NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains](https://arxiv.org/abs/2503.00870)  
 |  | [Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing](https://arxiv.org/abs/2503.00548)  
+|  | [Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups](https://arxiv.org/abs/2503.00370)  
 | [![Star](https://img.shields.io/github/stars/3DAgentWorld/SCA3D.svg)](https://github.com/3DAgentWorld/SCA3D) | [SCA3D: Enhancing Cross-modal 3D Retrieval via 3D Shape and Caption Paired Data Augmentation](https://arxiv.org/abs/2502.19128)  
 |  | [CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image](https://arxiv.org/abs/2502.12894)  
 | [![Star](https://img.shields.io/github/stars/denghilbert/Self-Cali-GS.svg)](https://github.com/denghilbert/Self-Cali-GS) | [Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction](https://arxiv.org/abs/2502.09563)  
@@ -51,6 +64,7 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 |  | [Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce](https://arxiv.org/abs/2410.21237)  
 | [![Star](https://img.shields.io/github/stars/NVlabs/LSM.svg)](https://github.com/NVlabs/LSM) | [Large Spatial Model: End-to-end Unposed Images to Semantic 3D](https://arxiv.org/abs/2410.18956)  
 | [![Star](https://img.shields.io/github/stars/3dlg-hcvc/singapo.svg)](https://github.com/3dlg-hcvc/singapo) | [SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects](https://arxiv.org/abs/2410.16499)  
+| [![Star](https://img.shields.io/github/stars/vlongle/articulate-anything.svg)](https://github.com/vlongle/articulate-anything) | [Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model](https://arxiv.org/abs/2410.13882)  
 | [![Star](https://img.shields.io/github/stars/gsrelight/gs-relight.svg)](https://github.com/gsrelight/gs-relight) | [GS^3: Efficient Relighting with Triple Gaussian Splatting](https://arxiv.org/abs/2410.11419)  
 | [![Star](https://img.shields.io/github/stars/cremebrule/digital-cousins.svg)](https://github.com/cremebrule/digital-cousins) | [Automated Creation of Digital Cousins for Robust Policy Learning](https://arxiv.org/abs/2410.07408)  
 |  | [GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering](https://arxiv.org/abs/2410.02619)  
@@ -58,6 +72,7 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 |  | [UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models](https://arxiv.org/abs/2409.20551)  
 |  | [RNG: Relightable Neural Gaussians](https://arxiv.org/abs/2409.19702)  
 |  | [What is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications](https://arxiv.org/abs/2409.19005v2)  
+| [![Star](https://img.shields.io/github/stars/kerrj/rsrd.svg)](https://github.com/kerrj/rsrd) | [Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction](https://arxiv.org/abs/2409.18121)  
 |  | [GauTOAO: Gaussian-based Task-Oriented Affordance of Objects](https://arxiv.org/abs/2409.11941)  
 |  | [LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models](https://arxiv.org/abs/2408.16224)  
 |  | [Ensemble Predicate Decoding for Unbiased Scene Graph Generation](https://arxiv.org/abs/2408.14187)  
@@ -71,6 +86,7 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 | [![Star](https://img.shields.io/github/stars/3dlg-hcvc/DuoduoCLIP.svg)](https://github.com/3dlg-hcvc/DuoduoCLIP) | [Duoduo CLIP: Efficient 3D Understanding with Multi-View Images](https://arxiv.org/abs/2406.11579)  
 | [![Star](https://img.shields.io/github/stars/buaacyw/MeshAnything.svg)](https://github.com/buaacyw/MeshAnything) | [MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163)  
 | [![Star](https://img.shields.io/github/stars/naver/mast3r.svg)](https://github.com/naver/mast3r) | [Grounding Image Matching in 3D with MASt3R](https://arxiv.org/abs/2406.09756)  
+| [![Star](https://img.shields.io/github/stars/hwjiang1510/Real3D.svg)](https://github.com/hwjiang1510/Real3D) | [Real3D: Scaling Up Large Reconstruction Models with Real-World Images](https://arxiv.org/abs/2406.08479)  
 | [![Star](https://img.shields.io/github/stars/YuxueYang1204/TrimGS.svg)](https://github.com/YuxueYang1204/TrimGS) | [Trim 3D Gaussian Splatting for Accurate Geometry Representation](https://arxiv.org/abs/2406.07499)  
 | [![Star](https://img.shields.io/github/stars/zju3dv/PGSR.svg)](https://github.com/zju3dv/PGSR) | [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](https://arxiv.org/abs/2406.06521)  
 |  | [RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering](https://arxiv.org/abs/2406.05852)  
@@ -165,7 +181,7 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 | [![Star](https://img.shields.io/github/stars/3DTopia/LGM.svg)](https://github.com/3DTopia/LGM) | [Lgm: Large multi-view gaussian model for high-resolution 3d content creation](https://arxiv.org/abs/2402.05054)  
 |  | [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)  
 | [![Star](https://img.shields.io/github/stars/chenguolin/InstructScene.svg)](https://github.com/chenguolin/InstructScene) | [InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717)  
-| [![Star](https://img.shields.io/github/stars/weify627/4D-Rotor-Gaussians.svg)](https://github.com/weify627/4D-Rotor-Gaussians) | [4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes](https://arxiv.org/abs/2402.03307)  
+| [![Star](https://img.shields.io/github/stars/weify627/4D-Rotor-Gaussians.svg)](https://github.com/weify627/4D-Rotor-Gaussians) | [sc4d: Sparse-controlled video-to-4d generation and motion transfer](https://arxiv.org/abs/2402.03307)  
 | [![Star](https://img.shields.io/github/stars/ShuhongLL/SGS-SLAM.svg)](https://github.com/ShuhongLL/SGS-SLAM) | [SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM](https://arxiv.org/abs/2402.03246)  
 | [![Star](https://img.shields.io/github/stars/waczjoan/gaussian-mesh-splatting.svg)](https://github.com/waczjoan/gaussian-mesh-splatting) | [GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting](https://arxiv.org/abs/2402.01459)  
 |  | [360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming](https://arxiv.org/abs/2402.00763)  
@@ -272,6 +288,7 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 |  | [Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://arxiv.org/abs/2205.15285)  
 |  | [V4D: Voxel for 4D Novel View Synthesis](https://arxiv.org/abs/2205.14332)  
 | [![Star](https://img.shields.io/github/stars/JasonQSY/Articulation3D.svg)](https://github.com/JasonQSY/Articulation3D) | [Understanding 3D Object Articulation in Internet Videos](https://arxiv.org/abs/2203.16531)  
+|  | [Affordance Learning from Play for Sample-Efficient Policy Learning](https://arxiv.org/abs/2203.00352)  
 | [![Star](https://img.shields.io/github/stars/UT-Austin-RPL/Ditto.svg)](https://github.com/UT-Austin-RPL/Ditto) | [Ditto: Building Digital Twins of Articulated Objects from Interaction](https://arxiv.org/abs/2202.08227)  
 | [![Star](https://img.shields.io/github/stars/3dlg-hcvc/tricolo.svg)](https://github.com/3dlg-hcvc/tricolo) | [TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval](https://arxiv.org/abs/2201.07366)  
   
@@ -294,12 +311,12 @@ Explore our [Miro board](https://miro.com/app/board/uXjVI6nHELo=/?share_link_id=
 |  | [VisualSem: A High-quality Knowledge Graph for Vision and Language](https://arxiv.org/abs/2008.09150)  
 |  | [Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve](https://arxiv.org/abs/2007.13034)  
 |  | [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://arxiv.org/abs/2004.03967)  
+|  | [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/abs/2002.00388)  
+|  | [Digital Twin in Industry 4.0: Technologies, Applications and Challenges](https://arxiv.org/abs/1909.00690)  
 |  | [Aligning Linguistic Words and Visual Semantic Units for Image Captioning](https://arxiv.org/abs/1908.02127)  
 |  | [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584)  
 |  | [Scene Graph Generation With External Knowledge and Image Reconstruction](https://arxiv.org/abs/1904.00560)  
+|  | [Visual Affordance and Function Understanding: A Survey](https://arxiv.org/abs/1807.06775)  
 |  | [On Support Relations and Semantic Scene Graphs](https://arxiv.org/abs/1609.05834)  
-
- <picture>
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ndrwmlnk/awesome-digital-twins"/>
- </picture>
-
+  
+<picture><img alt = "Star History Chart" src = "https://api.star-history.com/svg?repos=ndrwmlnk/awesome-digital-twins"/></picture>
